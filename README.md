@@ -114,10 +114,6 @@ I'm a passionate **2nd-year CSE student** at Bangalore Technological Institute, 
 
 </div>
 
-> **To activate:** Go to your repo Actions tab → find **Generate Snake** → click **Run workflow**
-
----
-
 ## 💬 Dev Quote of the Day
 
 <div align="center">
