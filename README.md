@@ -223,7 +223,6 @@ Fintech app development, feature implementation, debugging and scalable applicat
 | Institution | Degree | Year |
 |---|---|---|
 | Bangalore Technological Institute | B.E. Computer Science | 2024 – 2028 |
-| Visvesvaraya Technological University | B.E. CS and Engineering | 2024 – 2028 |
 | Swami Vivekananda Pre-University College | PUC – PCMC | 2022 – 2024 |
 
 </div>
