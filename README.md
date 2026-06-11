@@ -1,41 +1,40 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=220&section=header&text=Vasanth+M&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Student+Developer+%7C+Cloud+%26+AI+Enthusiast&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Vasanth%20M&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Student%20Developer%20%7C%20Cloud%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18" />
 
 </div>
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=meena897190&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/meena897190?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/meena897190?style=for-the-badge&color=ffd700&labelColor=cc9900&logo=github)
+![Stars](https://img.shields.io/github/stars/meena897190?style=for-the-badge&logo=github&color=ffd700)
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hey+there!+I'm+Vasanth+M+%F0%9F%91%8B;Student+Developer+%7C+Cloud+%26+AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&height=60&lines=Hey+there!+I'm+Vasanth+M+%F0%9F%91%8B;Student+Developer+%7C+Cloud+%26+AI+Enthusiast" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Microsoft+Learn+Enthusiast+%7C+IoT+Explorer;Building+real-world+projects%2C+one+commit+at+a+time+%F0%9F%9A%80;Aspiring+Microsoft+Student+Ambassador+%F0%9F%8C%9F;Open+Source+Contributor+%7C+Community+Builder" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Microsoft+Learn+Enthusiast+%7C+IoT+Explorer;Building+real-world+projects+%F0%9F%9A%80;Aspiring+Microsoft+Student+Ambassador+%F0%9F%8C%9F;Open+Source+Contributor+%7C+Community+Builder" />
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋 About Me
 
-<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a passionate **2nd-year Computer Science Engineering student** at Bangalore Technological Institute, constantly exploring the intersection of software, cloud, and AI.
+I'm a passionate **2nd-year CSE student** at Bangalore Technological Institute, exploring software, cloud, and AI. I believe in learning by building.
 
-- 🔭 Currently learning **Python, Cloud Computing & AI** via Microsoft Learn
+- 🔭 Learning **Python, Cloud & AI** via Microsoft Learn
 - 🛠️ Ex-IoT Intern @ **Emertxe** | Ex-SDE Intern @ **Bluestock Fintech**
-- 🌱 Exploring **embedded systems**, **microcontrollers**, and **fintech**
-- 🤝 Love **community building**, tech events, and student-led initiatives
-- 🎯 Goal: Become a **Microsoft Student Ambassador**
+- 🌱 Exploring **embedded systems** and **fintech**
+- 🤝 Love **community building** and tech events
+- 🎯 Goal: **Microsoft Student Ambassador**
 - 🌍 Languages: **Kannada, Tamil, English, Hindi**
 - 🎵 Coding with lo-fi beats 🎧
-- ⚡ Fun fact: I debug code and life with equal enthusiasm ☕
+- ⚡ I debug code and life with equal enthusiasm ☕
 
 <br clear="right"/>
 
@@ -45,35 +44,19 @@ I'm a passionate **2nd-year Computer Science Engineering student** at Bangalore 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vasanthm0512v" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Vasanth_M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/vasanthm0512v"><img src="https://img.shields.io/badge/LinkedIn-Vasanth_M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:meena897190@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-meena897190@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="mailto:meena897190@gmail.com"><img src="https://img.shields.io/badge/Gmail-meena897190-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://github.com/meena897190" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-meena897190-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/meena897190"><img src="https://img.shields.io/badge/GitHub-meena897190-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<a href="https://twitter.com/Vasanth0412" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-@Vasanth0412-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+<a href="https://twitter.com/Vasanth0412"><img src="https://img.shields.io/badge/Twitter-@Vasanth0412-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 &nbsp;
-<a href="https://instagram.com/_vasanth_0512_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-1%2C370+Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://instagram.com/_vasanth_0512_"><img src="https://img.shields.io/badge/Instagram-1%2C370_Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 &nbsp;
-<a href="https://medium.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-@vasanthm-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://dev.to/" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-vasanthm-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-</a>
+<a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 </div>
 
@@ -84,40 +67,40 @@ I'm a passionate **2nd-year Computer Science Engineering student** at Bangalore 
 <div align="center">
 
 **Languages**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=python,c&theme=dark" />
 
 <br/><br/>
 
 **Cloud and AI**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=azure&theme=dark" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 <br/><br/>
 
 **Tools and Platforms**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 <br/><br/>
 
 **IoT and Embedded**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 
 <br/><br/>
 
 **Databases**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 <br/><br/>
 
 **Currently Learning**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,docker&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,docker,python&theme=dark" />
 
 </div>
 
@@ -127,13 +110,11 @@ I'm a passionate **2nd-year Computer Science Engineering student** at Bangalore 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meena897190/meena897190/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meena897190/meena897190/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meena897190/meena897190/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/meena897190/meena897190/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
+
+> **To activate:** Go to your repo Actions tab → find **Generate Snake** → click **Run workflow**
 
 ---
 
@@ -141,7 +122,7 @@ I'm a passionate **2nd-year Computer Science Engineering student** at Bangalore 
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -159,13 +140,13 @@ I'm a passionate **2nd-year Computer Science Engineering student** at Bangalore 
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=meena897190&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=meena897190&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=meena897190&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=meena897190&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -175,7 +156,7 @@ I'm a passionate **2nd-year Computer Science Engineering student** at Bangalore 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=meena897190&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=meena897190&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
 
 </div>
 
@@ -204,21 +185,21 @@ I'm a passionate **2nd-year Computer Science Engineering student** at Bangalore 
 
 <table>
 <tr>
-<td width="60" align="center">
-<img src="https://img.icons8.com/color/48/iot-sensor.png" width="40" alt="IoT"/>
+<td width="70" align="center">
+<img src="https://img.icons8.com/color/96/iot-sensor.png" width="50"/>
 </td>
 <td>
 
 ### 🔌 IoT Intern — Emertxe Information Technologies
 **Mar 2026 – Apr 2026 | Bengaluru**
 
-C programming, microcontrollers, sensor integration, IoT protocols and real-time applications using SDLC approach.
+C programming, microcontrollers, sensor integration, IoT protocols and real-time applications.
 
 </td>
 </tr>
 <tr>
-<td width="60" align="center">
-<img src="https://img.icons8.com/color/48/source-code.png" width="40" alt="SDE"/>
+<td width="70" align="center">
+<img src="https://img.icons8.com/color/96/source-code.png" width="50"/>
 </td>
 <td>
 
@@ -239,9 +220,9 @@ Fintech app development, feature implementation, debugging and scalable applicat
 
 <div align="center">
 
-<img src="https://img.icons8.com/color/48/graduation-cap.png" width="44" alt="Education"/>
+<img src="https://img.icons8.com/color/96/graduation-cap.png" width="50"/>
 
-<br/>
+<br/><br/>
 
 | Institution | Degree | Year |
 |---|---|---|
@@ -257,11 +238,11 @@ Fintech app development, feature implementation, debugging and scalable applicat
 
 <div align="center">
 
-<img src="https://img.icons8.com/color/48/google-analytics.png" width="36" alt="Google Analytics"/>
+<img src="https://img.icons8.com/color/96/google-analytics.png" width="48"/>
 &nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/database.png" width="36" alt="Database"/>
+<img src="https://img.icons8.com/color/96/database.png" width="48"/>
 &nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/microsoft.png" width="36" alt="Microsoft"/>
+<img src="https://img.icons8.com/color/96/microsoft.png" width="48"/>
 
 <br/><br/>
 
@@ -279,13 +260,13 @@ Fintech app development, feature implementation, debugging and scalable applicat
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge&logo=github" />
 &nbsp;
 <img src="https://img.shields.io/badge/Hacktoberfest-Participant-orange?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
 
 <br/><br/>
 
-> 🌱 *Currently building my open source journey — looking for beginner-friendly issues to contribute to!*
+> 🌱 Currently building my open source journey — looking for beginner-friendly issues!
 
 </div>
 
@@ -295,7 +276,7 @@ Fintech app development, feature implementation, debugging and scalable applicat
 
 ### 🤝 Let's Build Something Amazing!
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
 
 <br/>
 
@@ -303,16 +284,12 @@ Fintech app development, feature implementation, debugging and scalable applicat
 
 <br/>
 
-<a href="https://www.linkedin.com/in/vasanthm0512v">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/vasanthm0512v"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://instagram.com/_vasanth_0512_">
-  <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://instagram.com/_vasanth_0512_"><img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
 
 </div>
