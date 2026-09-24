@@ -25,7 +25,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a passionate **2nd-year CSE student** at Bangalore Technological Institute, exploring software, cloud, and AI. I believe in learning by building.
+I'm a passionate **3nd-year CSE student** at Bangalore Technological Institute, exploring software, cloud, and AI. I believe in learning by building.
 
 - 🔭 Learning **Python, Cloud & AI** via Microsoft Learn
 - 🛠️ Ex-IoT Intern @ **Emertxe** | Ex-SDE Intern @ **Bluestock Fintech**
